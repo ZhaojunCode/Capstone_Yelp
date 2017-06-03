@@ -1,8 +1,8 @@
 ## Steps:
 
-### 1. JDK: [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (Required for Spark)
+### 1. Install JDK: [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (Required for Spark)
 
-### 2. Spark: (From Spark's [Quick Start Guide](http://spark.apache.org/docs/latest/quick-start.html))
+### 2. Install Spark: (From Spark's [Quick Start Guide](http://spark.apache.org/docs/latest/quick-start.html))
 
 Spark’s shell provides a simple way to learn the API, as well as a powerful tool to analyze data interactively. It is available in either Scala (which runs on the Java VM and is thus a good way to use existing Java libraries) or Python. **Start it by running the following in the Spark directory:**
 
