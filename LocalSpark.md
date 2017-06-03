@@ -1,10 +1,8 @@
 ## Steps:
 
-### 1. Install JDK: [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (Required for Spark)
+### 1. Install [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (Required for Spark)
 
-### 2. Install Spark: (From Spark's [Quick Start Guide](http://spark.apache.org/docs/latest/quick-start.html))
-
-Spark’s shell provides a simple way to learn the API, as well as a powerful tool to analyze data interactively. It is available in either Scala (which runs on the Java VM and is thus a good way to use existing Java libraries) or Python. **Start it by running the following in the Spark directory:**
+### 2. Installing Spark:
 
 1. **Download Spark:** [spark-2.1.1-bin-hadoop2.7.tgz](https://d3kbcqa49mib13.cloudfront.net/spark-2.1.1-bin-hadoop2.7.tgz)
 
@@ -30,13 +28,14 @@ export PYSPARK_DRIVER_PYTHON=jupyter
 export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 ```
 
-4. **Save and exit ** out of your config file.
+4. **Save and exit** out of your config file.
 
 5. **Restart** your shell terminal.
 
 6.  **Run pySpark:** To confirm spark was installed correctly, run  `pyspark` from your terminal. This should open up jupyter notebook.
 
 7. **Test your Spark Installation:**
+(you can also use the ipynb example in the git directory)
 
 ```
 from pyspark import SparkContext
