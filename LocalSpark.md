@@ -1,5 +1,5 @@
-##Download and Install:
-###1. JDK: [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (Required for Spark)
+## Download and Install:
+### 1. JDK: [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (Required for Spark)
 
 ###2. Spark: (From Spark's [Quick Start Guide](http://spark.apache.org/docs/latest/quick-start.html))
 
