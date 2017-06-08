@@ -18,14 +18,14 @@ $ cd /usr/local/spark
 ./bin/pyspark
 ```
 
-3. **Add spark as an environmental variable:** Depending on your shell, it's likely either the ~/.bashrc or ~/.zshrc file. Add the following line to your shell configuration:
+3. **Add spark as an environmental variable:** Depending on your shell, it's likely either the ~/.bashrc or ~/.zshrc or ~/bash_profile. Add the following line to your shell configuration:
 ```
-export PATH = $PATH:/usr/local/spark/bin
+export PATH=$PATH:/usr/local/spark/bin
 ```
 To configure jupyter notebook access, add the following lines to the bottom of your config file:
 ```
-export PYSPARK_DRIVER_PYTHON=jupyter
-export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
+export PYSPARK_DRIVER_PYTHON="jupyter"
+export PYSPARK_DRIVER_PYTHON_OPTS="notebook"
 ```
 
 4. **Save and exit** out of your config file.
