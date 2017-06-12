@@ -16,3 +16,5 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 Some meta data is needed to play with this notebook, which have been added to /processed_data/
 
+## Snippets for Chao (business dataset cleaning)
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8566558053568016/4262012351773610/3484221038728175/latest.html
