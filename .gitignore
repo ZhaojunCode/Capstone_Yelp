@@ -10,6 +10,9 @@ ENV/
 .python-version
 .pyc
 
+# oplx file
+*.oplx
+
 # Packages #
 ############
 *.7z
