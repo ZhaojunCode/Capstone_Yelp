@@ -17,7 +17,7 @@ ENV/
 ############
 *.7z
 *.dmg
-*.gz
+# *.gz
 *.iso
 *.jar
 *.rar
@@ -37,7 +37,6 @@ metastore_db/
 # Folders #
 ######################
 data/
-yelper_recommendation_system/
 
 # OS generated files #
 ######################
