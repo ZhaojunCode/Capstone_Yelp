@@ -25,3 +25,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 ### Content based recommendation (NLP word2vec) example
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2281281647728580/33322862051354/347222873603598/latest.html
+
+
+# LDA
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2281281647728580/34326526546425/347222873603598/latest.html
