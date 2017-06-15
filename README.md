@@ -29,3 +29,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 # LDA
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2281281647728580/34326526546425/347222873603598/latest.html
+
+## Updated social network based example notebook 6/15
+### What did your friends say about nearby restaurants (example for LV)
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5289125420080101/44552330514572/8301330479757772/latest.html
