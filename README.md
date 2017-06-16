@@ -32,4 +32,6 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 ## Updated social network based example notebook 6/15
 ### What did your friends say about nearby restaurants (example for LV)
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5289125420080101/44552330514572/8301330479757772/latest.html
+
+### This is a cleaner version of the social approach 6/16
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5289125420080101/3690050097713108/8301330479757772/latest.html
