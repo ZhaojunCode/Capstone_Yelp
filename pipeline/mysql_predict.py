@@ -24,10 +24,11 @@ def query_mysql(toop):
     '''
     Use the tuple as the list of business ids you want to query.
     '''
-    con = mdb.connect('yelpinstance.cxef9crs1tzb.us-east-1.rds.amazonaws.com', #localhost
-    	'yelperuser', # user
-    	'yelpee321', # pw
-    	'yelper_prod'); # db
+    # con = mdb.connect('localhost', #localhost
+    # 	'user', # user
+    # 	'pw', # pw
+    # 	'prod'); # db
+    # UNCOMMENT THE ABOVE AND INCLUDE MYSQL CONNECTION INFO
 
     with con: 
 
